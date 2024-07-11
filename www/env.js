@@ -1,4 +1,3 @@
-export const domain = 'mickshanny.us.auth0.com'
-export const clientId = 'luwNBP378EfKtXGGgxJj9T2kNZ1A562I'
+export const domain = 'dev-v6an8tmyb1oj3ssb.us.auth0.com'
+export const clientId = '0hCDMTdgWypFlRUpMixBIr40AV5acejf'
 export const audience = 'https://superZoomZoom.com'
-
